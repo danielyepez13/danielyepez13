@@ -1,18 +1,15 @@
 ## Hola👋, soy Daniel Yépez!  
-  
 <a href="https://github.com/danielyepez13" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/daniel-yepez-219942278" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-  
+
 ### Sobre mi  
 Soy un Desarrollador Full-Stack interesado en crear aplicaciones robustas. Me gusta utilizar las tecnologías mas actuales en mis proyectos para mantenerme siempre informado y a la vanguardia. Igualmente siento curiosidad por como diferentes personalidades son capaces de pensar en nuevas formas de revolucionar el ámbito de la programación web. 🤩  
-  
 <br/>  
-
-## Sobre mi  
+## Datos adicionales
 - 🚀 Me encantan los desafíos, especialmente aquellos que desafían mi lógica y mejoran mi resolución de problemas.  
   
 - 🌱 Actualmente estoy aprendiendo React-Native (Aplicaciones Móviles) y NextJS (Aplicaciones Web)  
@@ -20,9 +17,7 @@ Soy un Desarrollador Full-Stack interesado en crear aplicaciones robustas. Me gu
 - ❓ Pregúntame sobre tecnologías nuevas que han salido relacionadas con la programación web  
   
 - ⚡ Dato gracioso: odio el pan con jamón  
-  
 <br/>  
-
 ## Languages and Tools  
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
