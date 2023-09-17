@@ -9,14 +9,13 @@
 ### Sobre mi  
 Soy un Desarrollador Full-Stack interesado en crear aplicaciones robustas. Me gusta utilizar las tecnologías mas actuales en mis proyectos para mantenerme siempre informado y a la vanguardia. Igualmente siento curiosidad por como diferentes personalidades son capaces de pensar en nuevas formas de revolucionar el ámbito de la programación web. 🤩  
 <br/>  
+
 ## Datos adicionales
 - 🚀 Me encantan los desafíos, especialmente aquellos que desafían mi lógica y mejoran mi resolución de problemas.  
   
 - 🌱 Actualmente estoy aprendiendo React-Native (Aplicaciones Móviles) y NextJS (Aplicaciones Web)  
   
 - ❓ Pregúntame sobre tecnologías nuevas que han salido relacionadas con la programación web  
-  
-- ⚡ Dato gracioso: odio el pan con jamón
 
 <br/>
 
